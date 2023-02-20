@@ -5,4 +5,10 @@ I have Master's degree on EE. (Thesis: Design of low-loss array antenna)
 
 I am currently pursuing on PhD in POSTECH. I am working on artificial intelligence (AI) as a automatic processor with respect to arbitrary signals.
 
+## Contacts
+
+I like to use the ID: zxcqa123
+
+You may contact me by e-mail when you type zxcqa123@gmail.com / zxcqa123@postech.ac.kr / zxcqa123@kaist.ac.kr ... so on.
+
 <a href="https://www.linkedin.com/in/hosung-joo-a74168227/">(My Linkedin profile)</a>
