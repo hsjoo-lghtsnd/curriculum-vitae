@@ -9,6 +9,6 @@ I am currently pursuing on PhD in POSTECH. I am working on artificial intelligen
 
 I like to use the ID: zxcqa123
 
-You may contact me by e-mail when you type zxcqa123@gmail.com / zxcqa123@postech.ac.kr / zxcqa123@kaist.ac.kr ... so on.
+You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postech.ac.kr / zxcqa123@kaist.ac.kr ... so on.
 
 <a href="https://www.linkedin.com/in/hosung-joo-a74168227/">(My Linkedin profile)</a>
