@@ -5,7 +5,7 @@ I have Master's degree of EE. (Thesis: Design of low-loss array antenna)
 
 I am currently pursuing on PhD in POSTECH. I am working on artificial intelligence (AI) as a automatic processor on arbitrary signals.
 
-You may look up my previous publication on <a href="https://scholar.google.co.kr/citations?user=4faCzH8AAAAJ&hl=en&oi=ao">here</a>.
+You may look up my previous publications on <a href="https://scholar.google.co.kr/citations?user=4faCzH8AAAAJ&hl=en&oi=ao">here</a>.
 
 ## Contacts
 
