@@ -51,21 +51,21 @@ My teaching ability comes from my learning experience. I was always summarizing 
 - 2022      Took a Teaching Methodology (extracurriculum) course in POSTECH.
 - 2021      POSTECH TA on Introduction to Artificial Intelligence(EECE695-V)
 - 2018      Paid Teacher for entering the Science High School
-- 2011~2015 Paid Home-school Teacher
+- 2011-2015 Paid Home-school Teacher
 - 2005      Paid Home-school Teacher (My student got awarded from a science fair!)
-- 2003~2005 Paid TA for home-schooling
+- 2003-2005 Paid TA for home-schooling
 
 ## Leadership Experience
 
-- AiSLab (POSTECH) student leader, 2022.7~now
-. Lab Safety Manager, 2022.7~now
-. Lab student admin, 2022.7~now
-. (planned) AI & Communication Study Leader, 2023.9~
+- AiSLab (POSTECH) student leader, 2022.7 to now
+- Lab Safety Manager, 2022.7 to now
+- Lab student admin, 2022.7 to now
+- (planned) AI & Communication Study Leader, from 2023.9
 
 - Served as the representative of social service agents for National Tax Office in Cheonan, South Korea. 2015~2017
 
 - Founded a student crew in KAIST (name: FUZE), 2014.
-. "We fuze music, we fuze people"
-. I told you I was into music. The crew holds 50+ members for now. I've made up the rules and systems for it.
+- "We fuze music, we fuze people"
+- I told you I was into music. The crew holds 50+ members for now. I've made up the rules and systems for it.
 
 
