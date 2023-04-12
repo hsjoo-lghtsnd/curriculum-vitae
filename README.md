@@ -33,7 +33,8 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 
 ### Available Skill-sets
 
-- Image/Signal Processing
+- Implementation of Semantic Communication
+- (3D) Image/Signal Processing
 - RF/Circuit Design
 - Logic Design & Mixed Integer Optimization
 - Design/Implementation of Lens Antenna, Phased Antenna, and Active Electronically Scanned Antenna (AESA)
