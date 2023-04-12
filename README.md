@@ -22,10 +22,14 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 <a href="https://www.linkedin.com/in/hosung-joo-a74168227/">(My Linkedin profile)</a>
 
 
-## Academic Experience
+## Academic/Industrial Experience
 
 - Served as an IEEE WCL 2023' Reviewer
 - Served as an IEEE CCNC 2022' Reviewer
+- Served as an Antenna Engineer in ETRI, 2019-2020
+- Served as a Image Processing Engineer in a startup (Tomocube inc.), 2018
+- Served as a Data Scientist in a startup (BravePops Co.), 2015
+- Served as a Android Developer in a startup (now merged to Daum Kakao), 2014
 
 ### Available Skill-sets
 
@@ -37,7 +41,8 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 - IoT Sensor Network & Application
 - Reinforcement Learning Theory & Data Embedding
 - Typical & Recent Techniques of Deep Learning
-- Privacy in Machine Learning
+- Fairness & Privacy in Machine Learning
+- Power-efficient Computation
 
 ## Teaching Experience
 
@@ -51,7 +56,7 @@ My teaching ability comes from my learning experience. I was always summarizing 
 - 2022      Took a Teaching Methodology (extracurriculum) course in POSTECH.
 - 2021      POSTECH TA on Introduction to Artificial Intelligence(EECE695-V)
 - 2018      Paid Teacher for entering the Science High School
-- 2011-2015 Paid Home-school Teacher
+- 2011-2015 Paid Home-school Teacher + Paid School (extracurriculum) Teacher in <i>GYEONGGI ACADEMY OF FOREIGN LANGUAGES</i>
 - 2005      Paid Home-school Teacher (My student got awarded from a science fair!)
 - 2003-2005 Paid TA for home-schooling
 
