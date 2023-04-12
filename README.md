@@ -40,7 +40,7 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 - Automotive Radar
 - Implementation of FMCW Radar
 - Multi-hop Wireless Network
-- IoT Sensor Network & Application
+- IoT Sensor Network & Application (Awarded from UST-ICT fair, 3rd place)
 - Reinforcement Learning Theory & Data Embedding
 - Typical & Recent Techniques of Deep Learning
 - Fairness & Privacy in Machine Learning
