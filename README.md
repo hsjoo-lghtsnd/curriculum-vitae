@@ -53,7 +53,7 @@ My teaching ability comes from my learning experience. I was always summarizing 
 - 2023      POSTECH TA on Signals & Systems(EECE233-01), Neural Network and Reinforcement Learning(EECE695-O)
 - 2022      POSTECH Head TA on Introduction to Artificial Intelligence(EECE695-V)
 - 2022      POSTECH TA on IRP(High school students' Research Program)
-- 2022      Took a Teaching Methodology (extracurriculum) course in POSTECH.
+- 2022      Took a Teaching Methodology (extracurriculum) course in POSTECH. <a href="https://drive.google.com/file/d/15X1rQAO1y33lk6iv1xclfuXvls2dtGqj/view?usp=drivesdk">(certificate)</a>
 - 2021      POSTECH TA on Introduction to Artificial Intelligence(EECE695-V)
 - 2018      Paid 'Hakwon' (<i>"Wisemann Genius Teaching"</i> in Cheonan, South Korea) Teacher for the students entering the Science High School
 - 2011-2015 Paid Home-school Teacher + Paid School (extracurriculum) Teacher in <i>GYEONGGI ACADEMY OF FOREIGN LANGUAGES</i>
