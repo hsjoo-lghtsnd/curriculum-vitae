@@ -27,7 +27,7 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 - Served as an IEEE WCL 2023' Reviewer
 - Served as an IEEE CCNC 2022' Reviewer
 - Served as an Antenna Engineer in ETRI, 2019-2020
-- Served as a Image Processing Engineer in a startup (Tomocube inc.), 2018
+- Served as an Image Processing Engineer in a startup (Tomocube inc.), 2018
 - Served as a Data Scientist in a startup (BravePops Co.), 2015
 - Served as a Android Developer in a startup (now merged to Daum Kakao), 2014
 
