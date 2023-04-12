@@ -21,8 +21,8 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 
 ## Academic Experience
 
-- 2023. Served as an IEEE WCL Reviewer
-- 2022. Served as an IEEE CCNC Reviewer
+- Served as an IEEE WCL 2023' Reviewer
+- Served as an IEEE CCNC 2022' Reviewer
 
 ## Teaching Experience
 
