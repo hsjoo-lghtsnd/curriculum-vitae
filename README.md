@@ -4,9 +4,10 @@ Hi. My name is Hosung Joo. About my name, 'Ho' means <b>light</b> or <b>bright</
 I graduated from KAIST in 2018 (majored in EE with minor degree of CS; graduated with a report and an implementation of 3D image stitching), and I have a Master's degree for RF circuit and antenna design. (Thesis: Design of low-loss beam-steering array antenna)
 
 I am currently pursuing on PhD (2nd year) in POSTECH.
-I am working on artificial intelligence (AI) as an automatic processor on arbitrary signals. I think that positioning and localization problems should be studied for several side-channels including RF, sonic wave, computer vision and X-rays. I dream of <i>cheap and convenient multimodal sensors for human beings to control computers easier</i> (i.e. human-computer interface; HCI with better sensors). Therefore, my research question is "where does the signal come from? How much can we be sure of that?"
 
-Also, I am always interested with brain-computer interface since I was a science high school student (I was on the first place on Biology, Physics, and Computer Science at that time). If you happen to come up with some ideas in your mind, please do not hesitate to contact me. I love debating on those stuff.
+I am working on artificial intelligence (AI) as an automatic processor on arbitrary signals. I think that positioning and localization problems should be studied for several side-channels including RF, sonic wave, computer vision and X-rays. I dream of <i>cheap and convenient multimodal sensors for human beings to control computers easier</i> (i.e. human-computer interface; HCI with better sensors). Therefore, my research question is "Where does the signal come from? and How much can we be sure of that?"
+
+Also, I am always interested with brain-computer interfaces since I was a science high school student (I was on the first place on Biology, Physics, and Computer Science at that time). If you happen to come up with some ideas in your mind, please do not hesitate to contact me. I love debating on those stuff.
 
 You may look up my previous publications on <a href="https://scholar.google.co.kr/citations?user=4faCzH8AAAAJ&hl=en&oi=ao">here</a>. Many of domestic (in-Korea) works were excluded.
 
