@@ -54,8 +54,8 @@ I am an expert in teaching. I am good at producing materials to study over. I ha
 
 My teaching ability comes from my learning experience. I was always summarizing the ideas that I've heard of, thus, I was able to reproduce what I've learned.
 
-- 2023      POSTECH TA on Signals & Systems(EECE233-01), Neural Network and Reinforcement Learning(EECE695-O)
-- 2022      POSTECH Head TA on Introduction to Artificial Intelligence(EECE695-V)
+- 2023      POSTECH TA & Session Lecturer on Signals & Systems(EECE233-01), Neural Network and Reinforcement Learning(EECE695-O)
+- 2022      POSTECH Head TA & Session Lecturer on Introduction to Artificial Intelligence(EECE695-V)
 - 2022      POSTECH TA on IRP(High school students' Research Program)
 - 2022      Took a Teaching Methodology (extracurriculum) course in POSTECH. <a href="https://drive.google.com/file/d/15X1rQAO1y33lk6iv1xclfuXvls2dtGqj/view?usp=drivesdk">(certificate)</a>
 - 2021      POSTECH TA on Introduction to Artificial Intelligence(EECE695-V)
