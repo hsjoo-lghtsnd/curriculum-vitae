@@ -76,3 +76,15 @@ My teaching ability comes from my learning experience. I was always summarizing 
     - I told you I was into music. The crew holds 50+ members for now. I've made up the rules and systems for it.
 
 
+## Research Interests
+
+- 3D Structure Design & 3D Image Reconstruction
+- RF Devices & Antenna
+- Signal Processing & System
+- Modern Wireless Communication
+- Artificial Intelligence
+- Compressed Sensing, Remote Sensing
+- Information Fusion
+- Dictionary Learning
+- Positioning & Localization
+- Computer Vision & Pattern Recognition
