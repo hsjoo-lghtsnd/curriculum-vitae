@@ -1,9 +1,10 @@
 # "Hello World!"
 Hi. My name is Hosung Joo. About my name, 'Ho' means <b>light</b> or <b>bright</b>, and 'sung' means <b>sound</b>. There, I've always wanted to spread such light and sound in the world. It is not surprising that I was into music and spatial engineering. Taking <i>light (i.e. electro-magnetic waves)</i> into my life, I have naturally become an electrical engineer who looks after the wireless communication and signal processing.
 
-I graduated from KAIST in 2018 (majored in EE with minor degree of CS; graduated with a report and an implementation of 3D image stitching), and I have a Master's degree for RF circuit and antenna design. (Thesis: Design of low-loss beam-steering array antenna)
+I graduated from <i>Korea Advance Institute of Science and Technology (KAIST)</i> in 2018 (majored in EE with minor degree of CS; graduated with a report and an implementation of 3D image stitching), and I have a Master's degree from <i>Korea University of Science and Technology (UST)</i> for RF circuits and antenna design. (Thesis: Design of low-loss beam-steering array antenna) Consequently, I worked in <i>Electronics and Telecommunication Research Institute (ETRI)</i> as a antenna engineer from Mar. 2019 to Feb. 2021.
 
-I am currently pursuing on PhD (2nd year) in POSTECH.
+I am currently pursuing on my PhD (3rd year) in Pohang University of Science and Technology (POSTECH) in the Department of Electrical Engineering. My research interests are based on integrated sensor applications including radar, X-ray imaging, 3D meta-structure design, 3D image and point cloud reconstruction, artificial intelligence, and modern wireless communication with localization by information fusion.![image](https://user-images.githubusercontent.com/46191084/237018696-2f7967c9-8abd-4037-9952-387257add240.png)
+
 
 I am working on artificial intelligence (AI) as an automatic processor on arbitrary signals. I think that positioning and localization problems should be studied for several side-channels including RF, sonic wave, computer vision and X-rays. I dream of <i>cheap and convenient multimodal sensors for human beings to control computers easier</i> (i.e. human-computer interface; HCI with better sensors). Therefore, my research question is "Where does the signal come from? and How much can we be sure of that?"
 
