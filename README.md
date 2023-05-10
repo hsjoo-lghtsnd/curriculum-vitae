@@ -60,10 +60,10 @@ My teaching ability comes from my learning experience. I was always summarizing 
 - 2022      POSTECH TA on IRP(High school students' Research Program)
 - 2022      Took a Teaching Methodology (extracurriculum) course in POSTECH. <a href="https://drive.google.com/file/d/15X1rQAO1y33lk6iv1xclfuXvls2dtGqj/view?usp=drivesdk">(certificate)</a>
 - 2021      POSTECH TA on Introduction to Artificial Intelligence(EECE695-V)
-- 2018      Paid 'Hakwon' (<i>"Wisemann Genius Teaching"</i> in Cheonan, South Korea) Teacher for the students entering the Science High School
-- 2011-2015 Paid Home-school Teacher + Paid School (extracurriculum) Teacher in <i>GYEONGGI ACADEMY OF FOREIGN LANGUAGES</i>
-- 2005      Paid Home-school Teacher (My student got awarded from a science fair!)
-- 2003-2005 Paid TA for home-schooling
+- 2018      Paid 'Hakwon' (<i>"Wisemann Genius Teaching"</i> in Cheonan, South Korea) Teacher on Math Olympiad, high school level of Biology and EE-based high school~college level of Chemistry for the students entering the Science High School
+- 2011-2015 Paid Home-school Teacher + Paid School (extracurriculum) Teacher on Math, Physics in <i>GYEONGGI ACADEMY OF FOREIGN LANGUAGES</i>
+- 2005      Paid Home-school Teacher on elementary science (My student got awarded from a science fair!)
+- 2003-2005 Paid TA for English home school
 
 ## Leadership Experience
 
