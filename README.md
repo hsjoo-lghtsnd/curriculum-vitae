@@ -24,6 +24,7 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 
 ## Academic/Industrial Experience
 
+- IEEE AVSS 2023 Workshop (PPSS: Privacy-Preserving Surveillance Systems) Program Organizer
 - Served as an IEEE WCL 2023' Reviewer
 - Served as a JKICS Reviewer (2023.Jan. to Now)
 - Served as an IEEE CCNC 2022' Reviewer
