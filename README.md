@@ -25,8 +25,8 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 ## Academic/Industrial Experience
 
 - IEEE AVSS 2023 Workshop Organizer (PPSS: Privacy-Preserving Surveillance Systems)
-- Served as an IEEE WCL 2023' Reviewer
-- Served as a JKICS Reviewer (2023.Jan. to now)
+- Serving as an IEEE WCL (Q1) Reviewer
+- Serving as a JKICS Reviewer
 - Served as an IEEE CCNC 2022' Reviewer
 - Served as an Antenna Engineer in ETRI, 2019-2021
 - Served as an Image Processing Engineer in a startup (Tomocube inc.), 2018
