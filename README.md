@@ -69,10 +69,10 @@ My teaching ability comes from my learning experience. I was always summarizing 
 
 ## Leadership Experience
 
-- AiSLab (POSTECH) student leader, 2022.7 to now
-    - Lab Safety Manager, 2022.7 to now
-    - Lab student admin, 2022.7 to now
-- AiSLab (POSTECH) Communication Group, Study Leader, from 2023.9 to 2024.2 (Phase 1. The works will be conducted as a open-source GitHub Project.)
+- AiSLab (POSTECH) student leader, 2022.7 to 2024.2
+    - Lab Safety Manager, 2022.7 to 2024.2
+    - Lab student admin, 2022.7 to 2024.2
+- AiSLab (POSTECH) Communication Group, Study Leader, from 2023.9 to 2024.1 (Phase 1. The works will be conducted as a open-source GitHub Project.)
 - Served as the representative of social service agents for National Tax Office in Cheonan, South Korea. 2015-2017
 - Founded a student crew in KAIST (name: FUZE), 2014.
     - "We fuze music, we fuze people"
