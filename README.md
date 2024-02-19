@@ -38,7 +38,7 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 - (3D) Image/Signal Processing
 - RF/Circuit Design
 - Logic Design & Mixed Integer Optimization
-- Design/Implementation of Lens Antenna, Phased Antenna, and Active Electronically Scanned Antenna (AESA)
+- Design/Implementation of Lens Antenna and Beam Switching/Steering Antenna
 - Automotive Radar
 - Implementation of FMCW Radar
 - Multi-hop Wireless Network
