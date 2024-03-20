@@ -39,7 +39,7 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 - RF/Circuit Design
 - Logic Design & Mixed Integer Optimization
 - Design/Implementation of Lens Antenna and Beam Switching/Steering Antenna
-- Automotive Radar
+- Automotive Radar & Radome Design
 - Implementation of FMCW Radar
 - Multi-hop Wireless Network
 - IoT Sensor Network & Robot Application (Awarded from UST-ICT fair, 3rd place)
