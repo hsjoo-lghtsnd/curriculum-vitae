@@ -55,6 +55,7 @@ I am an expert in teaching. I am good at producing materials to study over. I ha
 
 My teaching ability comes from my learning experience. I was always summarizing the ideas that I've heard of, thus, I was able to reproduce what I've learned.
 
+- 2024      POSTECH and Yonsei University TA & Session Lecturer on Neural Network and Reinforcement Learning(EECE695-O/CSE5023)
 - 2023      POSTECH TA on Introduction to Artificial Intelligence(EECE695-V)
 - 2023      POSTECH and Yonsei University TA & Session Lecturer on Signals & Systems(EECE233-01), Neural Network and Reinforcement Learning(EECE695-O/CSE5023) <a href="https://docs.google.com/document/d/1bWGr1_61Ak2GMog7szRrm8lMRSePG7_I5W2b-hn48ok/edit?usp=sharing">(My handout)</a>, <a href="https://colab.research.google.com/drive/14MVJ-FQDeuv9B1O4Mn3GQRRQ9XjisBuJ?usp=sharing">(My code example on S&S)</a>, <a href="https://colab.research.google.com/drive/1HnjV2788ek_Be2K6Q0mhQlB50QKyCwbQ?usp=sharing">(My code example on NNRL)</a>
 - 2022      POSTECH <b>Head TA & Session Lecturer</b> on Introduction to Artificial Intelligence(EECE695-V)
