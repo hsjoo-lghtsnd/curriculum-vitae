@@ -27,10 +27,10 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 - Serving as an IEEE WCL Reviewer
 - Serving as a JKICS Reviewer
 - Served as an IEEE CCNC 2022' Reviewer
-- Served as an Antenna Engineer in ETRI, 2019-2021
-- Served as an Image Processing Engineer in a startup (Tomocube inc.), 2018
-- Served as a Data Scientist in a startup (BravePops Co.), 2015
-- Served as an Android Developer in a startup (now merged to Daum Kakao), 2014
+- Worked as an Antenna Engineer in ETRI, 2019-2021
+- Worked as an Image Processing Engineer in a startup (Tomocube inc.), 2018
+- Worked as a Data Scientist in a startup (BravePops Co.), 2015
+- Worked as an Android Developer in a startup (now merged to Daum Kakao), 2014
 
 ### Available Skill-sets
 
