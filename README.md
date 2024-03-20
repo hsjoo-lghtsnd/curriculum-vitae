@@ -3,7 +3,7 @@ Hi. My name is Hosung Joo. About my name, 'Ho' means <b>light</b> or <b>bright</
 
 I graduated from <i>Korea Advance Institute of Science and Technology (KAIST)</i> in 2019 (majored in EE with minor degree of CS; graduated with a report and an implementation of 3D image stitching), and I have a Master's degree from <i>Korea University of Science and Technology (UST)</i> for RF circuits and antenna design. (Thesis: Design of low-loss beam-steering array antenna) Consequently, I worked in <i>Electronics and Telecommunication Research Institute (ETRI)</i> as an antenna engineer from Mar. 2019 to Feb. 2021.
 
-I am currently pursuing on my PhD (4th year; planning to address my thesis in summer of 2025) in <i>Pohang University of Science and Technology (POSTECH) in the Department of Electrical Engineering</i>. My research interests are based on integrated sensor applications including radar, X-ray imaging, 3D meta-structure design (think of RIS or the lens effect), 3D image and point-cloud classification and reconstruction, artificial intelligence (AI), and modern wireless communication with localization by information fusion.
+I am currently pursuing on my PhD (4th year; planning to address my thesis in summer of 2025) in <i>Pohang University of Science and Technology (POSTECH) in the Department of Electrical Engineering</i>. My research interests are based on integrated sensor applications including radar, X-ray imaging, 3D meta-structure design (think of RIS or the lens effect), 3D image and point-cloud classification and reconstruction, artificial intelligence (AI), and modern wireless communication with localization by information fusion. I am currently working on channel prediction topic with localization technique.
 
 I am working on AI as an automatic processor on arbitrary signals. I think that positioning and localization problems should be studied for several side-channels including RF, sonic wave, computer vision and X-rays. I dream of <i>cheap and convenient multimodal sensors for human beings to control computers easier</i> (i.e. human-computer interface; HCI with better sensors). Therefore, my research question is "Where does the signal come from? and How much can we be sure of that?"
 
@@ -80,6 +80,8 @@ My teaching ability comes from my learning experience. I was always summarizing 
 
 ## Research Interests
 
+- Channel Prediction & Estimation
+- 3GPP / IEEE Standards
 - 3D Structure Design & 3D Image Reconstruction
 - RF Devices & Antenna
 - Signal Processing & System
@@ -87,6 +89,6 @@ My teaching ability comes from my learning experience. I was always summarizing 
 - Artificial Intelligence
 - Compressed Sensing, Remote Sensing
 - Information Fusion
-- Dictionary Learning
+- Sparse Dictionary Learning & Representation
 - Positioning & Localization
 - Computer Vision & Pattern Recognition
