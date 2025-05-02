@@ -16,7 +16,7 @@ I am working on AI as an automatic processor on arbitrary signals.
 I think that positioning and localization problems should be studied for several side-channels including RF, sonic wave, computer vision and X-rays.
 I dream of <i>cheap and convenient multimodal sensors for human beings to control computers easier</i> (i.e. human-computer interface; HCI with better sensors).
 Therefore, my research question is "Where does the signal come from? and How much can we be sure of that?"
-As terms of the question, I am working on the topic of sparse dictionary represenation for arbitrary signals.
+As terms of the question, I am working on inverse problems with the topic of sparse dictionary represenation for arbitrary signals.
 I don't know exactly how will it be, (thus I am still not a doctor,) but I am quite sure about it that signals should be represented with some sparse bases.
 
 I am always interested with brain-computer interfaces since I was a Science High School student (I was on the first place on Biology, Physics, and Computer Science at that time).
