@@ -1,21 +1,38 @@
 # Hosung Joo, AI-based Sensing System Engineer
-Hi. My name is Hosung Joo. About my name, 'Ho' means <b>light</b> or <b>bright</b>, and 'sung' means <b>sound</b>. There, I've always wanted to spread such diverse light and sound in the world. It is not surprising that I was into music and spatial engineering. Taking <i>light (i.e. electro-magnetic waves)</i> into my life, I have naturally become an electrical engineer who looks after the technologies on wireless communication and signal processing.
+Hi.
+My name is Hosung Joo.
+About my name, 'Ho' means <b>light</b> or <b>bright</b>, and 'sung' means <b>sound</b>.
+There, I've always wanted to spread such diverse light and sound in the world.
+It is not surprising that I was into music and spatial engineering.
+Taking <i>light (i.e. electro-magnetic waves)</i> into my life, I have naturally become an electrical engineer who looks after the technologies on wireless communication and signal processing.
 
-I graduated from <i>Korea Advance Institute of Science and Technology (KAIST)</i> in 2019 (majored in EE with minor degree of CS; graduated with a report and an implementation of 3D image stitching), and I have a Master's degree from <i>Korea University of Science and Technology (UST)</i> for RF circuits and antenna design. (Thesis: Design of low-loss beam-steering array antenna) Consequently, I worked in <i>Electronics and Telecommunication Research Institute (ETRI)</i> as an antenna engineer from Mar. 2019 to Feb. 2021.
+I graduated from <i>Korea Advance Institute of Science and Technology (KAIST)</i> in 2019 (majored in EE with minor degree of CS; graduated with a report and an implementation of 3D image stitching), and I have a Master's degree from <i>Korea University of Science and Technology (UST)</i> for RF circuits and antenna design. (Thesis: Design of low-loss beam-steering array antenna)
+Consequently, I worked in <i>Electronics and Telecommunication Research Institute (ETRI)</i> as an antenna engineer from Mar. 2019 to Feb. 2021.
 
-I am currently pursuing on my PhD (4th year; planning to address my thesis in the summer of 2026) in <i>Pohang University of Science and Technology (POSTECH) in the Department of Electrical Engineering</i>. My research interests are based on integrated sensor applications including radar, X-ray imaging, 3D meta-structure design (think of the reflecting intelligent surface-RIS or the lens effect), 3D image and point-cloud classification and reconstruction, artificial intelligence (AI), and modern wireless communication with localization by information fusion. I am currently working on channel prediction topic with localization technique.
+I am currently pursuing on my PhD (4th year; planning to address my thesis in the summer of 2026) in <i>Pohang University of Science and Technology (POSTECH) in the Department of Electrical Engineering</i>.
+My research interests are based on integrated sensor applications including radar, X-ray imaging, 3D meta-structure design (think of the reflecting intelligent surface-RIS or the lens effect), 3D image and point-cloud classification and reconstruction, artificial intelligence (AI), and modern wireless communication with localization by information fusion.
 
-I am working on AI as an automatic processor on arbitrary signals. I think that positioning and localization problems should be studied for several side-channels including RF, sonic wave, computer vision and X-rays. I dream of <i>cheap and convenient multimodal sensors for human beings to control computers easier</i> (i.e. human-computer interface; HCI with better sensors). Therefore, my research question is "Where does the signal come from? and How much can we be sure of that?"
+I am working on AI as an automatic processor on arbitrary signals.
+I think that positioning and localization problems should be studied for several side-channels including RF, sonic wave, computer vision and X-rays.
+I dream of <i>cheap and convenient multimodal sensors for human beings to control computers easier</i> (i.e. human-computer interface; HCI with better sensors).
+Therefore, my research question is "Where does the signal come from? and How much can we be sure of that?"
+As terms of the question, I am working on the topic of sparse dictionary represenation for arbitrary signals.
+I don't know exactly how will it be, but I am quite sure about it that signals should be represented with some sparse bases.
 
-Also, I am always interested with brain-computer interfaces since I was a Science High School student (I was on the first place on Biology, Physics, and Computer Science at that time). If you happen to come up with some ideas in your mind, please do not hesitate to contact me. I love debating on those stuff.
+I am always interested with brain-computer interfaces since I was a Science High School student (I was on the first place on Biology, Physics, and Computer Science at that time).
+If you happen to come up with some ideas in your mind, please do not hesitate to contact me.
+I love debating on those stuff.
 
-You may look up my previous publications on <a href="https://scholar.google.co.kr/citations?user=4faCzH8AAAAJ&hl=en&oi=ao">here</a>. Many of domestic (in-Korea) works were excluded.
+You may look up my previous publications on <a href="https://scholar.google.co.kr/citations?user=4faCzH8AAAAJ&hl=en&oi=ao">here</a>.
+Many of domestic (in-Korea) works were excluded.
+I had more than 10 domestic talks within communication society in Korea, which were intended to accelerate the society to run for my dream, although it may seem ineffective.
 
 ## Contacts
 
 I like to use the ID: zxcqa123
 
-It is very convenient to type in with a QWERTY keyboard. By the way, the number '123' is from my birthday Dec., 3th.
+It is very convenient to type in with a QWERTY keyboard.
+By the way, the number '123' is from my birthday Dec., 3th.
 
 You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postech.ac.kr / zxcqa123@kaist.ac.kr ... so on.
 
@@ -51,9 +68,14 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 
 ## Teaching Experience
 
-I am an expert in teaching. I am good at producing materials to study over. I had been rigorously trained to maintain the readable quality of the materials since I started teaching others as a paid teaching assistant (TA) in 2003. (I was born in 1993. Pretty fast to be a TA, isn't it?) I can effectively explain with my every teaching materials, indeed.
+I am an expert in teaching.
+I am good at producing materials to study over.
+I had been rigorously trained to maintain the readable quality of the materials since I started teaching others as a paid teaching assistant (TA) in 2003.
+(I was born in 1993. Pretty fast to be a TA, isn't it?)
+I can effectively explain with my every teaching materials, indeed.
 
-My teaching ability comes from my learning experience. I was always summarizing the ideas that I've heard of, thus, I was able to reproduce what I've learned.
+My teaching ability comes from my learning experience.
+I was always summarizing the ideas that I've heard of, thus, I was able to reproduce what I've learned.
 
 - 2024      POSTECH and Yonsei University TA & Session Lecturer on <i>Neural Network and Reinforcement Learning(EECE695-O/CSE5023)</i>
 - 2023      POSTECH TA on <i>Introduction to Artificial Intelligence(EECE695-V)</i>
