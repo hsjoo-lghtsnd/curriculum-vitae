@@ -27,6 +27,27 @@ You may look up my previous publications on <a href="https://scholar.google.co.k
 Many of domestic (in-Korea) works were excluded.
 I had more than 10 domestic talks within communication society in Korea, which were intended to accelerate the society to run for my dream, although it may seem ineffective.
 
+## Selected Publications During my Ph.D
+
+### Journal Papers
+
+1. **Hosung Joo**, Seungmin Choi (co-first), Sehyun Ryu, and Hyun Jong Yang,  
+   "[Compressed-CSI Feedback With Near Real-Time Domain Adaptation](https://doi.org/10.1109/TCOMM.2026.3698862),"  
+   *IEEE Transactions on Communications*, vol. 74, pp. 11048–11061, 2026.  
+   [[Paper](https://doi.org/10.1109/TCOMM.2026.3698862)] [[Code](https://github.com/hsjoo-lghtsnd/PSVD_NearRT_DA)]
+
+2. Seungmin Choi, **Hosung Joo** (co-first), Sehyun Ryu, Tommaso Melodia, and Hyun Jong Yang,  
+   "[Performance-Guaranteed CSI Feedback via Model-Agnostic Incremental Residual Compression Framework](https://doi.org/10.1109/LWC.2025.3624978),"  
+   *IEEE Wireless Communications Letters*, vol. 15, pp. 880–884, 2026.  
+   [[Paper](https://doi.org/10.1109/LWC.2025.3624978)]
+
+3. **Hosung Joo** et al.,  
+   "Heterogeneity-Aware Compression-Ratio Orchestration for Multi-User CSI Feedback in AI-RAN,"  
+   *Journal of Communications and Networks (JCN)*, accepted, 2026.  
+   [Paper link pending]
+
+
+
 ## Contacts
 
 I like to use the ID: zxcqa123
