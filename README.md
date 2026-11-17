@@ -22,7 +22,7 @@ I think that positioning and localization problems should be studied for several
 I dream of <i>cheap and convenient multimodal sensors for human beings to control computers easier</i> (i.e. human-computer interface; HCI with better sensors).
 Therefore, my research question is "Where does the signal come from? and How much can we be sure of that?"
 As terms of the question, I am working on inverse problems with the topic of sparse dictionary represenation for arbitrary signals.
-I don't know how exactly will it be, (thus I am still not a doctor,) but I am quite sure about it that signals should be represented with some sparse bases.
+I don't know how exactly will it be, but I am quite sure about it that signals should be represented with some sparse bases.
 
 I am always interested with brain-computer interfaces since I was a Science High School student (I was on the first place on Biology, Physics, and Computer Science at that time).
 If you happen to come up with some ideas in your mind, please do not hesitate to contact me.
@@ -69,7 +69,9 @@ You may contact me via e-mail when you type zxcqa123@gmail.com / zxcqa123@postec
 
 - Serving as an IEEE WCL Reviewer
 - Serving as a JKICS Reviewer
+- Serving as an IEEE IoTJ Reviewer
 - Served as an IEEE CCNC 2022' Reviewer
+- Served as an IEEE CCNC 2027' TPC member
 - Worked as an Antenna Engineer in ETRI, 2019-2021
 - Worked as an Image Processing Engineer in a startup (Tomocube inc.), 2018
 - Worked as a Data Scientist in a startup (BravePops Co.), 2015
