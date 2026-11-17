@@ -6,10 +6,15 @@ There, I've always wanted to spread such diverse light and sound in the world.
 It is not surprising that I was into music and spatial engineering.
 Taking <i>light (i.e. electro-magnetic waves)</i> into my life, I have naturally become an electrical engineer who looks after the technologies on wireless communication and signal processing.
 
+I am now working at Samsung Electronics, focusing on the theory and system design of wireless connectivity technologies, localization and positioning systems.
+My previous research experience in radar systems, real-time information compression, and communication system design has proven highly valuable in my current role.
+It has been rewarding to see how the knowledge and skills I developed throughout my academic journey translate into real-world engineering challenges.
+I am genuinely happy with where I am now.
+Still, I feel it exciting to keep learning and growing as an engineer.
+
+I recently completed my Ph.D. in Electrical Engineering at <i>Pohang University of Science and Technology (POSTECH)</i>, in 2026 (Thesis: Reliable, Adaptive, and Resource-Aware Compressed CSI Feedback for Massive MIMO Systems).
 I graduated from <i>Korea Advance Institute of Science and Technology (KAIST)</i> in 2019 (majored in EE with minor degree of CS; graduated with a report and an implementation of 3D image stitching), and I have a Master's degree from <i>Korea University of Science and Technology (UST)</i> for RF circuits and antenna design. (Thesis: Design of low-loss beam-steering array antenna)
 Consequently, I worked in <i>Electronics and Telecommunication Research Institute (ETRI)</i> as an antenna engineer from Mar. 2019 to Feb. 2021.
-
-I am currently pursuing on my PhD (4th year; planning to address my thesis in the summer of 2026) in <i>Pohang University of Science and Technology (POSTECH) in the Department of Electrical Engineering</i>.
 My research interests are based on integrated sensor applications including radar, X-ray imaging, 3D meta-structure design (think of the reflecting intelligent surface-RIS or the lens effect), 3D image and point-cloud classification and reconstruction, artificial intelligence (AI), and modern wireless communication with localization by information fusion.
 
 I am working on AI as an automatic processor on arbitrary signals.
